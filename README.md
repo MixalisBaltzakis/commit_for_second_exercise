@@ -1,5 +1,5 @@
 # commit_for_second_exercise
-Τα test μου στην αναφορά έχουν γίνει στο rome partition
+Τα test μου στην αναφορά έχουν γίνει στο rome partition 
 Οδηγίες για να τρέξει το πρόγραμμα:
 cd $SCRATCH Μπαίνουμε στον SCRATCH folder  
 
